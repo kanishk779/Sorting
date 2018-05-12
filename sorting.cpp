@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+//Aman 106117009
+>>>>>>> branch2
 #include <stdio.h>
  
 void swap(int *xp, int *yp)
@@ -51,4 +55,8 @@ int main()
     
 return 0;
 }
+<<<<<<< HEAD
 //kashyap 106117009
+=======
+
+>>>>>>> branch2
